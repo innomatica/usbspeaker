@@ -1,0 +1,6 @@
+
+r
+loadfile build/usbspeaker.bin 0x8000000
+r
+g
+exit
